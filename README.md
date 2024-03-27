@@ -8,6 +8,8 @@ O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backen
 
 ## Protótipo
 
+https://www.figma.com/file/RVoZDqBYDvOwohoazCRb7E/Projeto-Web2?type=design&node-id=1%3A3&mode=design&t=T11K9JusD9SdC7OQ-1 
+
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
